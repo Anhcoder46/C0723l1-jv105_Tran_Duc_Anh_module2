@@ -27,12 +27,9 @@ public class Main {
 
         StopWatch stopwatch = new StopWatch();
         stopwatch.start();
-
         selectionSort(arr);
-
         stopwatch.stop();
-
         long elapsedTime = stopwatch.getElapsedTime();
-        System.out.println("Elapsed Time: " + elapsedTime + " milliseconds");
+        System.out.println("Thoi gian troi qua: " + elapsedTime + " milli giay");
     }
 }
