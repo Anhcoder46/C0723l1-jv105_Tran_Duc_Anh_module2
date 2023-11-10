@@ -1,4 +1,4 @@
-package Xay_dung_lop_StopWatch;
+package xay_dung_lop_stopwatch;
 
 public class StopWatch {
     private long startTime, endTime;

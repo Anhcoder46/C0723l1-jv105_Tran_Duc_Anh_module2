@@ -1,4 +1,4 @@
-package Xay_dung_lop_Fan;
+package xay_dung_lop_fan;
 
 public class Main {
     public static void main(String[] args) {

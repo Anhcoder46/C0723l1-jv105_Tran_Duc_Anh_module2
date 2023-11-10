@@ -1,4 +1,4 @@
-package Xay_dung_lop_Fan;
+package xay_dung_lop_fan;
 
 public class Fan {
     private final int SLOW = 1; // slow: chậm
@@ -58,4 +58,3 @@ public class Fan {
         }
     }
 }
-

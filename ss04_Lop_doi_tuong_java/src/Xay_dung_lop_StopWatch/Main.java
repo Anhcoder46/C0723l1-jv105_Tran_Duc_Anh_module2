@@ -1,4 +1,4 @@
-package Xay_dung_lop_StopWatch;
+package xay_dung_lop_stopwatch;
 
 import java.util.Random;
 

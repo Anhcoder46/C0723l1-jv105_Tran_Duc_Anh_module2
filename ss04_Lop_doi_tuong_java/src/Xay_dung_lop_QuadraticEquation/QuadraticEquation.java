@@ -1,4 +1,4 @@
-package Xay_dung_lop_QuadraticEquation;
+package xay_dung_lop_quadraticequation;
 
 public class QuadraticEquation {
     private double a, b, c;

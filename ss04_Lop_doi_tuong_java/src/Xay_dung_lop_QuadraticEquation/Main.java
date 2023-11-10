@@ -1,6 +1,7 @@
-package Xay_dung_lop_QuadraticEquation;
+package xay_dung_lop_quadraticequation;
 
 import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
