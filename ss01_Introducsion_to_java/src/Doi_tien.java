@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Doi_tien {
+public class DoiTien {
     public static void main(String[] args) {
         double vnd = 23506;
         double usd;
