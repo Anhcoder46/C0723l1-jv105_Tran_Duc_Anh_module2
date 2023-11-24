@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ss08_Clearn_Code.iml" filepath="$PROJECT_DIR$/ss08_Clearn_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylinkedlist.iml" filepath="$PROJECT_DIR$/mylinkedlist.iml" />
     </modules>
   </component>
 </project>
