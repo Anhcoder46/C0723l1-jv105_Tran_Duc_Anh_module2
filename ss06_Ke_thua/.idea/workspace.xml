@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad8f8b1e-983a-4cea-855a-f77f39bff888" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ss16_io_textfile/bai_tap/src/copyfiletext/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss16_io_textfile/bai_tap/src/docfile/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss16_io_textfile/bai_tap/src/docfile/ReadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/controller/controller.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/controller/src/FuramaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/data/data.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/model/model.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/model/src/BooKing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/model/src/Contract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/model/src/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/model/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/model/src/Facility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/model/src/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/model/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/model/src/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/model/src/Villa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/repository/repository.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/repository/src/BookingCompator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/repository/src/GetInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/repository/src/ReadAndWrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/service/service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/service/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/utils/src/GetInfoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/utils/utils.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/view/src/FuramaResort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/view/view.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss04_Lop_doi_tuong_java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ss04_Lop_doi_tuong_java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss05_Static_access_modifier/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ss05_Static_access_modifier/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Circle_Cylinder/Circle_Cylinder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point2d_Point3d/Point2d_Point3d.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point_MoveablePiont/Point_MoveablePiont.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thiet_ke_Triangle/Thiet_ke_Triangle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss13_thuat_toan_tim_kiem/chuoi_tang_dan_co_do_dai_lon_nhat/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss13_thuat_toan_tim_kiem/chuoi_tang_dan_co_do_dai_lon_nhat/out/production/chuoi_tang_dan_co_do_dai_lon_nhat/chuoi_tang_dan_co_do_dai_lon_nhat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss13_thuat_toan_tim_kiem/chuoi_tang_dan_co_do_dai_lon_nhat/out/production/chuoi_tang_dan_co_do_dai_lon_nhat/chuoi_tang_dan_co_do_dai_lon_nhat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss13_thuat_toan_tim_kiem/chuoi_tang_dan_co_do_dai_lon_nhat/out/production/chuoi_tang_dan_co_do_dai_lon_nhat/chuoi_tang_dan_co_do_dai_lon_nhat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss13_thuat_toan_tim_kiem/chuoi_tang_dan_co_do_dai_lon_nhat/out/production/chuoi_tang_dan_co_do_dai_lon_nhat/chuoi_tang_dan_co_do_dai_lon_nhat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss13_thuat_toan_tim_kiem/chuoi_tang_dan_co_do_dai_lon_nhat/out/production/chuoi_tang_dan_co_do_dai_lon_nhat/chuoi_tang_dan_co_do_dai_lon_nhat/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss13_thuat_toan_tim_kiem/chuoi_tang_dan_co_do_dai_lon_nhat/out/production/chuoi_tang_dan_co_do_dai_lon_nhat/chuoi_tang_dan_co_do_dai_lon_nhat/chuoi_tang_dan_co_do_dai_lon_nhat.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ZUlmveCeYKRUGLfccuEZvatkVf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/C0723l1-jv105_Tran_Duc_Anh_module2/ss06_Ke_thua",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad8f8b1e-983a-4cea-855a-f77f39bff888" name="Changes" comment="" />
+      <created>1702484700505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702484700505</updated>
+      <workItem from="1702484701605" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/quan_ly_san_pham/quan_ly_san_pham.iml" filepath="$PROJECT_DIR$/quan_ly_san_pham/quan_ly_san_pham.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ss17_io_binary_serialization.iml" filepath="$PROJECT_DIR$/.idea/ss17_io_binary_serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/thuc_hanh/thuc_hanh.iml" filepath="$PROJECT_DIR$/thuc_hanh/thuc_hanh.iml" />
     </modules>
