@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bai_tap/bai_tap.iml" filepath="$PROJECT_DIR$/bai_tap/bai_tap.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ss19_string_regex.iml" filepath="$PROJECT_DIR$/.idea/ss19_string_regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/thhuc_hanh/thhuc_hanh.iml" filepath="$PROJECT_DIR$/thhuc_hanh/thhuc_hanh.iml" />
       <module fileurl="file://$PROJECT_DIR$/thuc_hanh/thuc_hanh.iml" filepath="$PROJECT_DIR$/thuc_hanh/thuc_hanh.iml" />
